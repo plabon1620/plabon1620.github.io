@@ -37,6 +37,12 @@ h1{
     -webkit-transition : background 0.65s;
     -moz-transition : background 0.65s;
 }
+#foot{
+    color : white;
+    margin : 400px auto;
+    padding-top: 100px ;
+    text-align: center;
+}
 
 span{
     color: white;
@@ -48,6 +54,7 @@ span{
     width : 20%;
     color : steelblue;
     font-size: inherit;
+
 }
 
 
